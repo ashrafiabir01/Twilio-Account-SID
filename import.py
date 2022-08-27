@@ -1,0 +1,26 @@
+import os
+os.system('cls'0
+
+data = '''SID: ACf262b7f581f8d1eb2a3d4ddf48f0fdb2
+Auth: 6b0e320e49625b6c9ce157efa14a4931
+
+SID: ACdf812e3cc1aae1e3576046e1d7138296
+Auth: 503645bbef7fcd46ac6f6b04ce5c0188
+
+SID: ACe489b1a8ef7bd64740f52d100a46716b
+Auth: f59ab30b28a933335a1ed69206043b2e
+
+SID: ACe8c2bb6560b201780ba9e88014de3d60
+Auth: 43faf4aec6d09e8fdd664805c90614b9
+
+SID: AC19e12df6ba4e391c15e4ab2a21c862a0
+Auth: 5382ebc197b5f0bc7375d172c22345e7
+
+SID: ACe030453b91b51c84a03cbb7bcc72f209
+Auth: f3c0dec7a90a1b091cefe41d5bbe61e4
+
+SID: ACadf9fd2b72eb4f14a55ecc0748899bae
+Auth: 096dad8617e79c6b831fba87c5c64b93'''
+
+
+print ('Twilio Account SID')
